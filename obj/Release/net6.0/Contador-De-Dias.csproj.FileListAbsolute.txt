@@ -1,0 +1,15 @@
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\Contador-De-Dias.exe
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\Contador-De-Dias.deps.json
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\Contador-De-Dias.runtimeconfig.json
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\Contador-De-Dias.dll
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\ref\Contador-De-Dias.dll
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\bin\Release\net6.0\Contador-De-Dias.pdb
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.csproj.AssemblyReference.cache
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.AssemblyInfoInputs.cache
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.AssemblyInfo.cs
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.dll
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\ref\Contador-De-Dias.dll
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.pdb
+C:\Users\nrodriguez\source\repos\Contador-De-Dias\obj\Release\net6.0\Contador-De-Dias.genruntimeconfig.cache

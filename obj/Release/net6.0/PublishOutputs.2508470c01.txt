@@ -1,0 +1,5 @@
+C:\Users\nrodriguez\Downloads\contador de dias\Contador-De-Dias.exe
+C:\Users\nrodriguez\Downloads\contador de dias\Contador-De-Dias.dll
+C:\Users\nrodriguez\Downloads\contador de dias\Contador-De-Dias.deps.json
+C:\Users\nrodriguez\Downloads\contador de dias\Contador-De-Dias.runtimeconfig.json
+C:\Users\nrodriguez\Downloads\contador de dias\Contador-De-Dias.pdb
